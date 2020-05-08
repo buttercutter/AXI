@@ -1,0 +1,95 @@
+[*]
+[*] GTKWave Analyzer v3.3.86 (w)1999-2017 BSI
+[*] Fri May  8 10:44:07 2020
+[*]
+[dumpfile] "/home/rog/Downloads/AXI/axi_demo_tb.vcd"
+[dumpfile_mtime] "Fri May  8 10:41:18 2020"
+[dumpfile_size] 102694
+[savefile] "/home/rog/Downloads/AXI/axi_demo_tb.gtkw"
+[timestart] 0
+[size] 1853 1025
+[pos] -51 -1
+*-18.823215 2095000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] axi_demo_tb.
+[treeopen] axi_demo_tb.axi.
+[sst_width] 43
+[signals_width] 446
+[sst_expanded] 0
+[sst_vpaned_height] 152
+@23
+axi_demo_tb.axi.axi_araddr[11:0]
+@28
+axi_demo_tb.axi.axi_arburst[1:0]
+@22
+axi_demo_tb.axi.axi_arcache[3:0]
+@28
+axi_demo_tb.axi.axi_arid
+@22
+axi_demo_tb.axi.axi_arlen[7:0]
+@28
+axi_demo_tb.axi.axi_arlock
+axi_demo_tb.axi.axi_arprot[2:0]
+@22
+axi_demo_tb.axi.axi_arqos[3:0]
+@29
+axi_demo_tb.axi.axi_arready
+@28
+axi_demo_tb.axi.axi_arsize[2:0]
+@29
+axi_demo_tb.axi.axi_arvalid
+@23
+axi_demo_tb.axi.axi_awaddr[11:0]
+@28
+axi_demo_tb.axi.axi_awburst[1:0]
+@22
+axi_demo_tb.axi.axi_awcache[3:0]
+@28
+axi_demo_tb.axi.axi_awid
+@22
+axi_demo_tb.axi.axi_awlen[7:0]
+@28
+axi_demo_tb.axi.axi_awlock
+axi_demo_tb.axi.axi_awprot[2:0]
+@22
+axi_demo_tb.axi.axi_awqos[3:0]
+@29
+axi_demo_tb.axi.axi_awready
+@28
+axi_demo_tb.axi.axi_awsize[2:0]
+@29
+axi_demo_tb.axi.axi_awvalid
+@28
+axi_demo_tb.axi.axi_bid
+axi_demo_tb.axi.axi_bready
+axi_demo_tb.axi.axi_bresp[1:0]
+axi_demo_tb.axi.axi_bvalid
+@23
+axi_demo_tb.axi.axi_rdata[127:0]
+@28
+axi_demo_tb.axi.axi_rid
+axi_demo_tb.axi.axi_rlast
+axi_demo_tb.axi.axi_rready
+axi_demo_tb.axi.axi_rresp[1:0]
+@29
+axi_demo_tb.axi.axi_rvalid
+@23
+axi_demo_tb.axi.axi_wdata[127:0]
+@28
+axi_demo_tb.axi.axi_wlast
+@29
+axi_demo_tb.axi.axi_wready
+@22
+axi_demo_tb.axi.axi_wstrb[15:0]
+@29
+axi_demo_tb.axi.axi_wvalid
+@28
+axi_demo_tb.axi.clk
+axi_demo_tb.axi.done
+axi_demo_tb.axi.error
+@22
+axi_demo_tb.axi.num_of_memory_data_read_transaction[11:0]
+@28
+axi_demo_tb.axi.reset
+axi_demo_tb.axi.valid_read_response_contains_error_messages
+[pattern_trace] 1
+[pattern_trace] 0

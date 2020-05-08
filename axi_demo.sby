@@ -1,0 +1,36 @@
+[tasks]
+cover
+proof
+
+[options]
+proof: mode prove
+proof: depth 20
+
+cover: mode cover
+cover: depth 600
+cover: append 40
+
+#multiclock on
+
+[engines]
+smtbmc yices
+# smtbmc boolector
+# abc pdr
+# aiger avy
+# aiger suprove
+
+[script]
+read_verilog -formal axi_demo.v
+read_verilog -formal axi_master.v
+read_verilog -formal axi_slave_ram.v
+read_verilog -formal cache_controller.v
+
+
+prep -top axi_demo
+opt_merge -share_all
+
+[files]
+axi_demo.v
+axi_master.v
+axi_slave_ram.v
+cache_controller.v

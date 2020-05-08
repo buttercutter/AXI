@@ -1,0 +1,101 @@
+[*]
+[*] GTKWave Analyzer v3.3.86 (w)1999-2017 BSI
+[*] Fri May  8 10:55:23 2020
+[*]
+[dumpfile] "/home/rog/Downloads/AXI/axi_demo_cover/engine_0/trace0.vcd"
+[dumpfile_mtime] "Fri May  8 10:54:39 2020"
+[dumpfile_size] 248023
+[savefile] "/home/rog/Downloads/AXI/axi_demo_cover.gtkw"
+[timestart] 0
+[size] 1853 1025
+[pos] 67 0
+*-6.484500 200 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] axi_demo.
+[sst_width] 43
+[signals_width] 374
+[sst_expanded] 0
+[sst_vpaned_height] 152
+@28
+smt_clock
+@420
+smt_step
+@23
+axi_demo.axi_araddr[11:0]
+@28
+axi_demo.axi_arburst[1:0]
+@22
+axi_demo.axi_arcache[3:0]
+@28
+axi_demo.axi_arid
+@22
+axi_demo.axi_arlen[7:0]
+@28
+axi_demo.axi_arlock
+axi_demo.axi_arprot[2:0]
+@22
+axi_demo.axi_arqos[3:0]
+@29
+axi_demo.axi_arready
+@28
+axi_demo.axi_arsize[2:0]
+@29
+axi_demo.axi_arvalid
+@23
+axi_demo.axi_awaddr[11:0]
+@28
+axi_demo.axi_awburst[1:0]
+@22
+axi_demo.axi_awcache[3:0]
+@28
+axi_demo.axi_awid
+@22
+axi_demo.axi_awlen[7:0]
+@28
+axi_demo.axi_awlock
+axi_demo.axi_awprot[2:0]
+@22
+axi_demo.axi_awqos[3:0]
+@29
+axi_demo.axi_awready
+@28
+axi_demo.axi_awsize[2:0]
+@29
+axi_demo.axi_awvalid
+@28
+axi_demo.axi_bid
+@29
+axi_demo.axi_bready
+axi_demo.axi_bresp[1:0]
+axi_demo.axi_bvalid
+@23
+axi_demo.axi_rdata[7:0]
+@28
+axi_demo.axi_rid
+axi_demo.axi_rlast
+@29
+axi_demo.axi_rready
+@28
+axi_demo.axi_rresp[1:0]
+@29
+axi_demo.axi_rvalid
+@23
+axi_demo.axi_wdata[7:0]
+@28
+axi_demo.axi_wlast
+@29
+axi_demo.axi_wready
+@28
+axi_demo.axi_wstrb
+@29
+axi_demo.axi_wvalid
+@28
+axi_demo.clk
+axi_demo.done
+axi_demo.error
+@22
+axi_demo.num_of_memory_data_read_transaction[11:0]
+@28
+axi_demo.reset
+axi_demo.valid_read_response_contains_error_messages
+[pattern_trace] 1
+[pattern_trace] 0
